@@ -1,5 +1,11 @@
 Adobe Audition 2022 22.2 Complète (2023) - Installer Windows (Travail)
 
+
+
+https://github.com/kitchenforbrasil/Adobe-Audition-2022-22.2.0.61/assets/136776313/101b0794-efec-4751-995d-68e1b8fe0541
+
+
+
 Nous allons apprendre dans cette vidéo, comment transférer et installer le programme Adobe Audition 2022 v22.2.0.61, dans la dernière version.
 
 
